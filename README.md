@@ -4,7 +4,7 @@
 
 3. 開啟 GitHUB 中的 app.gs 複製全部程式碼，並到 GAS 貼上
 
-4. 修改 Cookie 陣列，支持多帳號簽到，如果只有一個帳號只需要將下方範例中的 Cookie1 替換掉，Cookie2 可以刪除，如果有更多就照著新增
+4. 修改 Cookie 陣列，支持多帳號簽到，如果只有一個帳號只需要將程式碼中的的 Cookie1 替換掉，Cookie2 可以刪除，如果有更多就照著新增
 ```
     const tokenArr = [
         'Cookie1',
